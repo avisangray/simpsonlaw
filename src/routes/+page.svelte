@@ -14,11 +14,10 @@
 			   <div class="overlay-gradient"></div>
 			   <div class="container">
 				   <div class="row">
-					   <div class="col-md-8 col-md-offset-2 text-center js-fullheight slider-text">
+					   <div class="col-md-8 col-md-offset-2 text-center js-fullheight slider-text animated fadeInUp">
 						   <div class="slider-text-inner">
-							   <h1><strong>Defend Your Constitutional Right with Legal Help</strong></h1>
-								<h2>Visit <a href="#" target="_blank">Colorlib</a> for more free templates</h2>
-								<p><a class="btn btn-primary btn-lg btn-learn" href="#" target="_blank">Colorlib</a></p>
+							   <h1><strong>WE ARE YOUR PROGRESSIVE LAW PARTNER</strong></h1>
+								<p><a class="btn btn-primary btn-lg btn-learn" href="#" target="_blank">Contact us</a></p>
 						   </div>
 					   </div>
 				   </div>
@@ -28,11 +27,11 @@
 			   <div class="overlay-gradient"></div>
 			   <div class="container">
 				   <div class="row">
-					   <div class="col-md-8 col-md-offset-2 text-center js-fullheight slider-text">
+					   <div class="col-md-8 col-md-offset-2 text-center js-fullheight slider-text animated fadeInUp">
 						   <div class="slider-text-inner">
-							   <h1><strong>Defend Your Constitutional Right with Legal Help</strong></h1>
-								<h2>Visit <a href="#" target="_blank">Colorlib</a> for more free templates</h2>
-								<p><a class="btn btn-primary btn-lg btn-learn" href="#" target="_blank">Colorlib</a></p>
+							   <h1><strong>WE ARE YOUR PROGRESSIVE LAW PARTNER</strong></h1>
+								<!--h2>Visit <a href="#" target="_blank">Contact us</a> for more free templates</h2-->
+								<p><a class="btn btn-primary btn-lg btn-learn" href="#" target="_blank">Contact us</a></p>
 						   </div>
 					   </div>
 				   </div>
@@ -42,11 +41,11 @@
 			   <div class="overlay-gradient"></div>
 			   <div class="container">
 				   <div class="row">
-					   <div class="col-md-8 col-md-offset-2 text-center js-fullheight slider-text">
+					   <div class="col-md-8 col-md-offset-2 text-center js-fullheight slider-text animated fadeInUp">
 						   <div class="slider-text-inner">
-							   <h1><strong>Defend Your Constitutional Right with Legal Help</strong></h1>
-								<h2>Visit <a href="#" target="_blank">Colorlib</a> for more free templates</h2>
-								<p><a class="btn btn-primary btn-lg btn-learn" href="#" target="_blank">Colorlib</a></p>
+							   <h1><strong>WE ARE YOUR PROGRESSIVE LAW PARTNER</strong></h1>
+
+							   <p><a class="btn btn-primary btn-lg btn-learn" href="#" target="_blank">Contact us</a></p>
 						   </div>
 					   </div>
 				   </div>
@@ -64,15 +63,40 @@
 			</div>
 			<div class="col-md-1"></div>
 			<div class="col-md-5">
-				<h2>Welcome To Our Legal Office</h2>
-				<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts far from the countries Vokalia and Consonantia, there live the blind texts. </p>
-				<p><a href="#" class="btn btn-primary">Read More</a></p>
+				<h1>Welcome To Our Legal Office</h1>
+				<p>Our approach to delivering law services is different. We are laser-focused on meeting your need to get results while managing your bottom line. Our modern, streamlined, and tech enabled structure is client-focused. Because your business is our business. </p>
+				<p></p>
+				<p><a href="#" class="btn btn-primary">Contact us</a></p>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="site-section">
+	<div class="container">
+		<div class="row">
+		
+			<div class="col-md-1"></div>
+			<div class="col-md-5">
+				<h1><h3>Kyle C. Simpson</h3>
+					<h5>Managing Partner, Attorney</h5>
+				</h1>
+				
+				<p>Kyle C. Simpson is an attorney providing legal services covering Business law and taxation to Criminal Defense</p>
+
+				<p>Kyle Simpson, who practices law in San Antonio, Texas, was selected to Super Lawyers for 2020 - 2021. This peer designation is awarded only to a select number of accomplished attorneys in each state. The Super Lawyers selection process takes into account peer recognition, professional achievement in legal practice, and other cogent factors.
+				</p>
+				<p>	Prior to becoming an attorney, he studied at St. Mary's University School of Law. He graduated in 2003. After passing the bar exam, he was admitted to legal practice in 2003. </p>
+				
+				<p><a href="#" class="btn btn-primary">Contact us</a></p>
+			</div>
+			<div class="col-md-6">
+				<img src="/kylesimpson.jpeg" alt="Image" class="img-responsive img-rounded">
 			</div>
 		</div>
 	</div>
 </div>
 
-<div class="ftco-practice">
+<!--div class="ftco-practice">
 	<div class="container">
 		
 		<div class="row">
@@ -82,8 +106,8 @@
 						<i class="flaticon-courthouse"></i>
 					</span>
 					<div class="desc">
-						<h3><a href="#">Real Estate Law</a></h3>
-						<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life</p>
+						<h3><a href="#">Business Law</a></h3>
+						<p></p>
 					</div>
 				</div>
 			</div>
@@ -93,8 +117,8 @@
 						<i class="flaticon-padlock"></i>
 					</span>
 					<div class="desc">
-						<h3><a href="#">Insurance Law</a></h3>
-						<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life</p>
+						<h3><a href="#">Criminal Law</a></h3>
+						<p></p>
 					</div>
 				</div>
 			</div>
@@ -104,14 +128,14 @@
 						<i class="flaticon-folder"></i>
 					</span>
 					<div class="desc">
-						<h3><a href="#">Business Law</a></h3>
-						<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life</p>
+						<h3><a href="#">Legal Recovery</a></h3>
+						<p></p>
 					</div>
 				</div>
 			</div>
 		</div>
 	</div>
-</div>
+</div-->
 
 
 
@@ -120,31 +144,25 @@
 	<div class="overlay"></div>
 	<div class="container">
 		<div class="row">
+			<div class="col-md-3 text-center animate-box"></div>
 			<div class="col-md-3 text-center animate-box">
 				<span class="icon"><i class="flaticon-lawyer-1"></i></span>
-				<span class="ftco-counter js-counter" data-from="0" data-to="2893" data-speed="5000" data-refresh-interval="50"></span>
-				<span class="ftco-counter-label">Our Lawyer</span>
+				<span class="ftco-counter js-counter" data-from="0" data-to="15" data-speed="2000" data-refresh-interval="50"></span>
+				<span class="ftco-counter-label">Years Experience</span>
 			</div>
-			<div class="col-md-3 text-center animate-box">
-				<span class="icon"><i class="flaticon-courthouse"></i></span>
-				<span class="ftco-counter js-counter" data-from="0" data-to="291" data-speed="5000" data-refresh-interval="50"></span>
-				<span class="ftco-counter-label">Our Clients</span>
-			</div>
+		
 			<div class="col-md-3 text-center animate-box">
 				<span class="icon"><i class="flaticon-libra"></i></span>
-				<span class="ftco-counter js-counter" data-from="0" data-to="952" data-speed="5000" data-refresh-interval="50"></span>
+				<span class="ftco-counter js-counter" data-from="0" data-to="1293" data-speed="5000" data-refresh-interval="50"></span>
 				<span class="ftco-counter-label">Successful Case</span>
 			</div>
-			<div class="col-md-3 text-center animate-box">
-				<span class="icon"><i class="flaticon-police-badge"></i></span>
-				<span class="ftco-counter js-counter" data-from="0" data-to="1921" data-speed="5000" data-refresh-interval="50"></span>
-				<span class="ftco-counter-label">Honor &amp; Awards</span>
-			</div>
+		
+			<div class="col-md-3 text-center animate-box"></div>
 		</div>
 	</div>
 </div>
 
-<div id="ftco-content">
+<!--div id="ftco-content">
 	<div class="video ftco-video" style="background-image: url(/blog-4.jpg);">
 		<a href="https://vimeo.com/channels/staffpicks/93951774" class="popup-vimeo"><i class="icon-play"></i></a>
 		<div class="overlay"></div>
@@ -157,7 +175,7 @@
 		</div>
 		
 	</div>
-</div>
+</div-->
 
 <div class="ftco-practice">
 	<div class="container">
@@ -353,6 +371,7 @@
 	</div>
 </div>
 
+<!--
 <div id="ftco-blog">
 	<div class="container">
 		<div class="row animate-box">
@@ -391,50 +410,23 @@
 		</div>
 	</div>
 </div>
-
+-->
 <div id="ftco-about">
 	<div class="container">
 		<div class="row animate-box">
 			<div class="col-md-8 col-md-offset-2 text-center ftco-heading">
 				<h2>Our Attorneys</h2>
-				<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+				<p>Our lawyers have a wide range of experience in legal services ranging from business law and taxation to criminal defense.</p>
 			</div>
 		</div>
 		<div class="row">
+			<div class="col-md-4 col-sm-4 text-center animate-box" data-animate-effect="fadeIn"></div>
 			<div class="col-md-4 col-sm-4 text-center animate-box" data-animate-effect="fadeIn">
 				<div class="ftco-staff">
 					<img src="/user-3.jpg" alt="Template">
-					<h3>Joyce Kroell</h3>
-					<strong class="role">Counsel</strong>
-					<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-					<ul class="ftco-social-icons">
-						<li><a href="#"><i class="icon-facebook"></i></a></li>
-						<li><a href="#"><i class="icon-twitter"></i></a></li>
-						<li><a href="#"><i class="icon-dribbble"></i></a></li>
-						<li><a href="#"><i class="icon-linkedin"></i></a></li>
-					</ul>
-				</div>
-			</div>
-			<div class="col-md-4 col-sm-4 text-center animate-box" data-animate-effect="fadeIn">
-				<div class="ftco-staff">
-					<img src="/user-1.jpg" alt="Template">
-					<h3>James Garett</h3>
-					<strong class="role">Head of International Practice</strong>
-					<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-					<ul class="ftco-social-icons">
-						<li><a href="#"><i class="icon-facebook"></i></a></li>
-						<li><a href="#"><i class="icon-twitter"></i></a></li>
-						<li><a href="#"><i class="icon-dribbble"></i></a></li>
-						<li><a href="#"><i class="icon-linkedin"></i></a></li>
-					</ul>
-				</div>
-			</div>
-			<div class="col-md-4 col-sm-4 text-center animate-box" data-animate-effect="fadeIn">
-				<div class="ftco-staff">
-					<img src="/user-2.jpg" alt="Template">
-					<h3>Peter Washington</h3>
+					<h3>Kyle Simpson</h3>
 					<strong class="role">Managing Partner, Attorney</strong>
-					<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+					<p>Prior to becoming an attorney, he studied at St. Mary's University School of Law. He graduated in 2003. After passing the bar exam, he was admitted to legal practice in 2003 and was selected to Prestigious Super Lawyers for 2020 - 2021</p>
 					<ul class="ftco-social-icons">
 						<li><a href="#"><i class="icon-facebook"></i></a></li>
 						<li><a href="#"><i class="icon-twitter"></i></a></li>
@@ -443,6 +435,8 @@
 					</ul>
 				</div>
 			</div>
+			<div class="col-md-4 col-sm-4 text-center animate-box" data-animate-effect="fadeIn"></div>
+			
 		</div>
 	</div>
 </div>
@@ -452,12 +446,11 @@
 		<div id="ftco-intro" style="position: relative; margin-bottom: -150px!important;">
 			<div class="third-col">
 				<h2 class="h3">Need Legal Services?</h2>
-				<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+				<p>Look no further we are here to help.</p>
 			</div>
 			<div class="third-col third-col-color">
-				<h2 class="h3">Call now (+1) 123-456-7890</h2>
+				<h2 class="h3">Call now (+ 1) 210-882-6988</h2>
 				<p>Email us at <a href="#" target="_blank">info@yourwebsite.com</a></p>
-				<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
 			</div>
 		</div>
 	</div>
@@ -467,8 +460,8 @@
 	<div class="container">
 		<div class="row row-pb-md">
 			<div class="col-md-3 ftco-widget">
-				<h4>Lawfirm</h4>
-				<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+				<h4>Simpson Law</h4>
+				<p></p>
 			</div>
 			<div class="col-md-3 col-md-push-1">
 				<h4>Navigation</h4>
@@ -476,7 +469,6 @@
 					<li><a href="#">Home</a></li>
 					<li><a href="#">Practice Areas</a></li>
 					<li><a href="#">Won Cases</a></li>
-					<li><a href="#">Blog</a></li>
 					<li><a href="#">About us</a></li>
 				</ul>
 			</div>
@@ -484,8 +476,9 @@
 			<div class="col-md-3 col-md-push-1">
 				<h4>Contact Information</h4>
 				<ul class="ftco-footer-links">
-					<li>198 West 21th Street, <br> Suite 721 New York NY 10016</li>
-					<li><a href="tel://1234567920">+ 1235 2355 98</a></li>
+
+					<li>25331 IH 10 W,Ste 207<br> San Antonio, TX 78257</li>
+					<li><a href="tel://12108826988">+ 1 (210)-882-6988</a></li>
 					<li><a href="mailto:info@yoursite.com">info@yoursite.com</a></li>
 				</ul>
 			</div>

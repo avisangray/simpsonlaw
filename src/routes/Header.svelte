@@ -8,10 +8,10 @@
 		<div class="top-menu">
 			<div class="container">
 				<div class="row">
-					<div class="col-md-2">
-						<div id="ftco-logo"><a href="index.html">Lawmaker</a></div>
+					<div class="col-md-3">
+						<div id="ftco-logo"><a href="index.html">Simpson Law</a></div>
 					</div>
-					<div class="col-md-10 text-right menu-1">
+					<div class="col-md-9 text-right menu-1">
 						<ul>
 							<li class="active"><a href="index.html">Home</a></li>
 							<li><a href="">Practice Areas</a></li>
