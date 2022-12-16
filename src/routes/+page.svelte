@@ -17,7 +17,7 @@
 					   <div class="col-md-8 col-md-offset-2 text-center js-fullheight slider-text animated fadeInUp">
 						   <div class="slider-text-inner">
 							   <h1><strong>WE ARE YOUR PROGRESSIVE LAW PARTNER</strong></h1>
-								<p><a class="btn btn-primary btn-lg btn-learn" href="#" target="_blank">Contact us</a></p>
+								<p><a class="btn btn-primary btn-lg btn-learn" href="#contact" target="_blank">Contact us</a></p>
 						   </div>
 					   </div>
 				   </div>
@@ -54,23 +54,32 @@
 		  </ul>
 	  </div>
 </aside>
-
-<div class="site-section">
+<div id="ftco-started" style="background-image:url(/img_bg_2.jpg);" data-stellar-background-ratio="0.5">
+	<div class="overlay"></div>
 	<div class="container">
-		<div class="row">
-			<div class="col-md-6">
-				<img src="/hero_1.jpg" alt="Image" class="img-responsive img-rounded">
-			</div>
-			<div class="col-md-1"></div>
-			<div class="col-md-5">
-				<h1>Welcome To Our Legal Office</h1>
-				<p>Our approach to delivering law services is different. We are laser-focused on meeting your need to get results while managing your bottom line. Our modern, streamlined, and tech enabled structure is client-focused. Because your business is our business. </p>
-				<p></p>
-				<p><a href="#" class="btn btn-primary">Contact us</a></p>
+		<div class="row animate-box">
+			<div class="col-md-8 col-md-offset-2 text-center ftco-heading ftco-heading2">
+				<h2>Welcome To Our Legal Office</h2>
+				<p>Our approach to delivering law services is different. We are laser-focused on meeting your need to get results while managing your bottom line. Our modern, streamlined, and tech enabled structure is client-focused. Because your business is our business.
+
+
+				</p>
+				<p><a href="#contact" class="btn btn-primary btn-lg">Consultation</a></p>
 			</div>
 		</div>
 	</div>
 </div>
+
+
+<div class="site-section">
+	<div class="container">
+		<div class="row">
+		
+		
+		</div>
+	</div>
+</div>
+
 <div class="site-section">
 	<div class="container">
 		<div class="row">
@@ -177,7 +186,7 @@
 	</div>
 </div-->
 
-<div class="ftco-practice">
+<div class="ftco-practice" id="practiceareas">
 	<div class="container">
 		<div class="row animate-box">
 			<div class="col-md-8 col-md-offset-2 text-center ftco-heading">
@@ -189,36 +198,19 @@
 			<div class="col-md-4 text-center animate-box">
 				<div class="services">
 					<span class="icon">
-						<i class="flaticon-courthouse"></i>
-					</span>
-					<div class="desc">
-						<h3><a href="#">Real Estate Law</a></h3>
-						<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life</p>
-					</div>
-				</div>
-			</div>
-			<div class="col-md-4 text-center animate-box">
-				<div class="services">
-					<span class="icon">
-						<i class="flaticon-padlock"></i>
-					</span>
-					<div class="desc">
-						<h3><a href="#">Insurance Law</a></h3>
-						<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life</p>
-					</div>
-				</div>
-			</div>
-			<div class="col-md-4 text-center animate-box">
-				<div class="services">
-					<span class="icon">
 						<i class="flaticon-folder"></i>
 					</span>
 					<div class="desc">
 						<h3><a href="#">Business Law</a></h3>
-						<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life</p>
+						<p>We defend you and your business against tax agencies and IRS disputes. We're here to help keep you compliant and save you money. Obtaining extraordinary results for our clients is our top priority.
+
+
+					</p>
 					</div>
 				</div>
 			</div>
+		
+		
 			<div class="col-md-4 text-center animate-box">
 				<div class="services">
 					<span class="icon">
@@ -226,21 +218,15 @@
 					</span>
 					<div class="desc">
 						<h3><a href="#">Personal Injury</a></h3>
-						<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life</p>
+						<p> When you’re injured through no fault of your own, it takes a strong legal team to help you recover. As one of the nation’s top auto accident personal injury law firms, you can take pride in knowing that you have retained some of the best injury attorneys for the job.  
+
+
+
+						</p>
 					</div>
 				</div>
 			</div>
-			<div class="col-md-4 text-center animate-box">
-				<div class="services">
-					<span class="icon">
-						<i class="flaticon-handcuffs"></i>
-					</span>
-					<div class="desc">
-						<h3><a href="#">Medical Neglegence</a></h3>
-						<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life</p>
-					</div>
-				</div>
-			</div>
+			
 			<div class="col-md-4 text-center animate-box">
 				<div class="services">
 					<span class="icon">
@@ -248,32 +234,18 @@
 					</span>
 					<div class="desc">
 						<h3><a href="#">Criminal Defense</a></h3>
-						<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life</p>
+						<p>The criminal defense attorneys at Simpson Law in Texas understand that being arrested or charged with a crime is a frightening experience. Our law firm's mission is to aggressively and tenaciously defend our clients, even before the case reaches the courtroom! /p>
 					</div>
 				</div>
 			</div>
-			<div class="col-md-12 text-center animate-box">
-				<p><a class="btn btn-primary btn-lg btn-learn" href="#">View More <i class="icon-arrow-right"></i></a></p>
-			</div>
-		</div>
-	</div>
-</div>
-
-<div id="ftco-started" style="background-image:url(/img_bg_2.jpg);" data-stellar-background-ratio="0.5">
-	<div class="overlay"></div>
-	<div class="container">
-		<div class="row animate-box">
-			<div class="col-md-8 col-md-offset-2 text-center ftco-heading ftco-heading2">
-				<h2>Far far away, behind the word mountains</h2>
-				<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-				<p><a href="#" class="btn btn-primary btn-lg">Consultation</a></p>
-			</div>
+			
 		</div>
 	</div>
 </div>
 
 
-<div id="ftco-testimonial" class="ftco-bg-section">
+
+<!--div id="ftco-testimonial" class="ftco-bg-section">
 	<div class="container">
 		<div class="row animate-box">
 			<div class="col-md-6 col-md-offset-3 text-center ftco-heading">
@@ -322,10 +294,10 @@
 			</div>
 		</div>
 	</div>
-</div>
+</div-->
 
-<div id="ftco-consult">
-	<div class="video ftco-video" style="background-image: url(/hero_3.jpg);" data-stellar-background-ratio="0.5">
+<div id="ftco-consult" >
+	<div class="video ftco-video" id="contact" style="background-image: url(/hero_3.jpg);" data-stellar-background-ratio="0.5">
 	</div>
 	<div class="choose choose-form animate-box">
 		<div class="ftco-heading">
@@ -423,16 +395,16 @@
 			<div class="col-md-4 col-sm-4 text-center animate-box" data-animate-effect="fadeIn"></div>
 			<div class="col-md-4 col-sm-4 text-center animate-box" data-animate-effect="fadeIn">
 				<div class="ftco-staff">
-					<img src="/user-3.jpg" alt="Template">
-					<h3>Kyle Simpson</h3>
+					<img src="/kylesimpson.jpeg" alt="Template">
+					<h3>Kyle C. Simpson</h3>
 					<strong class="role">Managing Partner, Attorney</strong>
 					<p>Prior to becoming an attorney, he studied at St. Mary's University School of Law. He graduated in 2003. After passing the bar exam, he was admitted to legal practice in 2003 and was selected to Prestigious Super Lawyers for 2020 - 2021</p>
-					<ul class="ftco-social-icons">
+					<!--ul class="ftco-social-icons">
 						<li><a href="#"><i class="icon-facebook"></i></a></li>
 						<li><a href="#"><i class="icon-twitter"></i></a></li>
 						<li><a href="#"><i class="icon-dribbble"></i></a></li>
 						<li><a href="#"><i class="icon-linkedin"></i></a></li>
-					</ul>
+					</ul-->
 				</div>
 			</div>
 			<div class="col-md-4 col-sm-4 text-center animate-box" data-animate-effect="fadeIn"></div>
@@ -498,16 +470,16 @@
 			<div class="col-md-12 text-center">
 				<p>
 		<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-		Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart text-danger" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank" >Colorlib</a>
+		Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart text-danger" aria-hidden="true"></i> by <a href="https://wesics.com" target="_blank" >Wesics</a>
 		<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
 		</p>
 				<p>	</p>
-					<ul class="ftco-social-icons">
+					<!--ul class="ftco-social-icons">
 						<li><a href="#"><i class="icon-twitter"></i></a></li>
 						<li><a href="#"><i class="icon-facebook"></i></a></li>
 						<li><a href="#"><i class="icon-linkedin"></i></a></li>
 						<li><a href="#"><i class="icon-dribbble"></i></a></li>
-					</ul>
+					</ul-->
 			
 			</div>
 		</div>
