@@ -198,7 +198,9 @@
 			<div class="col-md-4 text-center animate-box">
 				<div class="services">
 					<span class="icon">
-						<i class="flaticon-folder"></i>
+						<span class="material-symbols-outlined">
+							handshake
+							</span>
 					</span>
 					<div class="desc">
 						<h3><a href="#">Business Law</a></h3>
@@ -214,11 +216,13 @@
 			<div class="col-md-4 text-center animate-box">
 				<div class="services">
 					<span class="icon">
-						<i class="flaticon-handcuffs"></i>
+						<span class="material-symbols-outlined">
+							assured_workload
+							</span>
 					</span>
 					<div class="desc">
-						<h3><a href="#">Personal Injury</a></h3>
-						<p> When you’re injured through no fault of your own, it takes a strong legal team to help you recover. As one of the nation’s top auto accident personal injury law firms, you can take pride in knowing that you have retained some of the best injury attorneys for the job.  
+						<h3><a href="#">Taxation</a></h3>
+						<p> We assist our clients with all state personal and corporate income tax issues, real property tax assessments, state sales and use taxes and employment taxes.
 
 
 
@@ -230,11 +234,15 @@
 			<div class="col-md-4 text-center animate-box">
 				<div class="services">
 					<span class="icon">
-						<i class="flaticon-libra"></i>
+						<span class="material-symbols-outlined">
+							currency_exchange
+							</span>
 					</span>
 					<div class="desc">
-						<h3><a href="#">Criminal Defense</a></h3>
-						<p>The criminal defense attorneys at Simpson Law in Texas understand that being arrested or charged with a crime is a frightening experience. Our law firm's mission is to aggressively and tenaciously defend our clients, even before the case reaches the courtroom! /p>
+						<h3><a href="#">Employee Retention Credit</a></h3>
+						<p>Simpson Law is an expert in the CARES Act/ERC Credit industry. Simpson Law has helped hundreds of business owners file for the Employee Retention Credit (ERC) Tax Credit and the filings represent more than $200 million in tax credits.
+
+						</p>
 					</div>
 				</div>
 			</div>
@@ -296,14 +304,13 @@
 	</div>
 </div-->
 
-<div id="ftco-consult" >
+<div id="ftco-consult"  >
 	<div class="video ftco-video" id="contact" style="background-image: url(/hero_3.jpg);" data-stellar-background-ratio="0.5">
 	</div>
-	<div class="choose choose-form animate-box">
-		<div class="ftco-heading">
-			<h2>Free Legal Advice</h2>
-		</div>
-		<form action="#">
+	<div class="choose choose-form animate-box" style="    background: #f0f0f0 !important;">
+	
+		<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfk1fmEQCqiCxCzaxm204rN4gWaWY6Uf9lkOoDaSh4_Iptavg/viewform?embedded=true"  style="width:100% !important" height="812" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+		<!--form action="#">
 			<div class="row form-group">
 				<div class="col-md-6">
 					<label for="fname">First Name</label>
@@ -339,7 +346,7 @@
 				<input type="submit" value="Send Message" class="btn btn-primary">
 			</div>
 
-		</form>	
+		</form-->	
 	</div>
 </div>
 
@@ -520,4 +527,17 @@
 		top: 0;
 		display: block;
 	}
+
+	@media screen and (max-width: 868px){
+	#ftco-content .choose, #ftco-consult .choose {
+    padding: 40px 10px;
+}
+}
+
+.material-symbols-outlined{
+	font-size: 6rem !important;    color: #3f52e3;
+}
+
+
+
 </style>
