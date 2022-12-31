@@ -429,7 +429,7 @@
 			</div>
 			<div class="third-col third-col-color">
 				<h2 class="h3">Call now (+ 1) 210-882-6988</h2>
-				<p>Email us at <a href="#" target="_blank">info@yourwebsite.com</a></p>
+				<p>Email us at <a href="#" target="_blank">contact@kylesimpsonlaw.com</a></p>
 			</div>
 		</div>
 	</div>
@@ -458,7 +458,7 @@
 
 					<li>25331 IH 10 W,Ste 207<br> San Antonio, TX 78257</li>
 					<li><a href="tel://12108826988">+ 1 (210)-882-6988</a></li>
-					<li><a href="mailto:info@yoursite.com">info@yoursite.com</a></li>
+					<li><a href="mailto:contact@kylesimpsonlaw.com">contact@kylesimpsonlaw.com</a></li>
 				</ul>
 			</div>
 
