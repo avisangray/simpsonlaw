@@ -3,8 +3,8 @@
 </script>
 
 <svelte:head>
-	<title>Home</title>
-	<meta name="description" content="Svelte demo app" />
+	<title>Kyle Simpson | Attorney Lawyer Employee Retention Credit Texas</title>
+	<meta name="description" content="Kyle Simpson | Attorney Lawyer Employee Retention Credit Texas" />
 </svelte:head>
 
 <aside id="ftco-hero" class="js-fullheight">
